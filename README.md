@@ -1,1 +1,1 @@
-# Credit-Card-Customer-Report---SQL And PowerBI
+# Credit-Card-Customer-Report---SQL & PowerBI
